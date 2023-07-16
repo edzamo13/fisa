@@ -2,6 +2,7 @@ package com.fisa.yugiohapp.dto;
 
 public class ArchetypeDto {
 
+
     private static final long serialVersionUID = 1L;
     private String archetype_name;
 
